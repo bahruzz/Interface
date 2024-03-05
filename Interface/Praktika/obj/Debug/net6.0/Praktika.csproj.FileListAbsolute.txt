@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\bin\Debug\net6.0\Praktika.exe
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\bin\Debug\net6.0\Praktika.deps.json
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\bin\Debug\net6.0\Praktika.runtimeconfig.json
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\bin\Debug\net6.0\Praktika.dll
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\bin\Debug\net6.0\Praktika.pdb
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.AssemblyInfo.cs
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.dll
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\refint\Praktika.dll
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.pdb
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\Praktika.genruntimeconfig.cache
+C:\Users\user\Desktop\sinif praktika\Praktika\Praktika\obj\Debug\net6.0\ref\Praktika.dll
